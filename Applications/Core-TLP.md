@@ -27,11 +27,11 @@ project in the following areas:
 
 ## Governance
 
-https://github.com/nodejs/node/blob/master/GOVERNANCE.md
+<https://github.com/nodejs/node/blob/master/GOVERNANCE.md>
 
 ## Contributions
 
-https://github.com/nodejs/node/blob/master/CONTRIBUTING.md
+<https://github.com/nodejs/node/blob/master/CONTRIBUTING.md>
 
 ## Tools
 
@@ -45,19 +45,19 @@ All relevant IP is managed by the Node.js Foundation.
 
 ## TC Members
 
-* **Ben Noordhuis** &lt;info@bnoordhuis.nl&gt; ([@bnoordhuis](https://github.com/bnoordhuis))
-* **Bert Belder** &lt;bertbelder@gmail.com&gt; ([@piscisaureus](https://github.com/piscisaureus))
-* **Fedor Indutny** &lt;fedor.indutny@gmail.com&gt; ([@indutny](https://github.com/indutny))
-* **Trevor Norris** &lt;trev.norris@gmail.com&gt; ([@trevnorris](https://github.com/trevnorris))
-* **Chris Dickinson** &lt;christopher.s.dickinson@gmail.com&gt; ([@chrisdickinson](https://github.com/chrisdickinson))
-* **Rod Vagg** &lt;rod@vagg.org&gt; ([@rvagg](https://github.com/rvagg))
-* **Jeremiah Senkpiel** &lt;fishrock123@rocketmail.com&gt; ([@fishrock123](https://github.com/fishrock123))
-* **Colin Ihrig** &lt;cjihrig@gmail.com&gt; ([@cjihrig](https://github.com/cjihrig))
-* **Alexis Campailla** &lt;orangemocha@nodejs.org&gt; ([@orangemocha](https://github.com/orangemocha))
-* **Julien Gilli** &lt;jgilli@nodejs.org&gt; ([@misterdjules](https://github.com/misterdjules))
-* **James M Snell** &lt;jasnell@gmail.com&gt; ([@jasnell](https://github.com/jasnell))
-* **Shigeki Ohtsu** &lt;ohtsu@iij.ad.jp&gt; ([@shigeki](https://github.com/shigeki))
-* **Brian White** &lt;mscdex@mscdex.net&gt; ([@mscdex](https://github.com/mscdex))
+* **Ben Noordhuis** <mailto:info@bnoordhuis.nl> ([@bnoordhuis](https://github.com/bnoordhuis))
+* **Bert Belder** <mailto:bertbelder@gmail.com> ([@piscisaureus](https://github.com/piscisaureus))
+* **Fedor Indutny** <mailto:fedor.indutny@gmail.com> ([@indutny](https://github.com/indutny))
+* **Trevor Norris** <mailto:trev.norris@gmail.com> ([@trevnorris](https://github.com/trevnorris))
+* **Chris Dickinson** <mailto:christopher.s.dickinson@gmail.com> ([@chrisdickinson](https://github.com/chrisdickinson))
+* **Rod Vagg** <mailto:rod@vagg.org> ([@rvagg](https://github.com/rvagg))
+* **Jeremiah Senkpiel** <mailto:fishrock123@rocketmail.com> ([@fishrock123](https://github.com/fishrock123))
+* **Colin Ihrig** <mailto:cjihrig@gmail.com> ([@cjihrig](https://github.com/cjihrig))
+* **Alexis Campailla** <mailto:orangemocha@nodejs.org> ([@orangemocha](https://github.com/orangemocha))
+* **Julien Gilli** <mailto:jgilli@nodejs.org> ([@misterdjules](https://github.com/misterdjules))
+* **James M Snell** <mailto:jasnell@gmail.com> ([@jasnell](https://github.com/jasnell))
+* **Shigeki Ohtsu** <mailto:ohtsu@iij.ad.jp> ([@shigeki](https://github.com/shigeki))
+* **Brian White** <mailto:mscdex@mscdex.net> ([@mscdex](https://github.com/mscdex))
 
 ## Working Groups
 

@@ -28,7 +28,7 @@ project in the following areas:
 ## Governance
 
 All merges are done by one of the stated maintainers
-https://github.com/libuv/libuv/blob/v1.x/MAINTAINERS.md.
+<https://github.com/libuv/libuv/blob/v1.x/MAINTAINERS.md>.
 There's no other governance currently documented.
 
 Upon admission into the incubator the project will work
@@ -37,7 +37,7 @@ policies.
 
 ## Contributions
 
-https://github.com/libuv/libuv/blob/master/CONTRIBUTING.md
+<https://github.com/libuv/libuv/blob/master/CONTRIBUTING.md>
 
 ## Tools
 
@@ -52,10 +52,10 @@ Upon admission to the incubator it would adopt the DCO.
 
 ## TC Members
 
-* **Ben Noordhuis** &lt;info@bnoordhuis.nl&gt; ([@bnoordhuis](https://github.com/bnoordhuis))
-* **Bert Belder** &lt;bertbelder@gmail.com&gt; ([@piscisaureus](https://github.com/piscisaureus))
-* **Fedor Indutny** &lt;fedor.indutny@gmail.com&gt; ([@indutny](https://github.com/indutny))
-* **Saúl Ibarra Corretgé** &lt;saghul@gmail.com&gt; ([@saghul](https://github.com/saghul))
+* **Ben Noordhuis** <mailto:info@bnoordhuis.nl> ([@bnoordhuis](https://github.com/bnoordhuis))
+* **Bert Belder** <mailto:bertbelder@gmail.com> ([@piscisaureus](https://github.com/piscisaureus))
+* **Fedor Indutny** <mailto:fedor.indutny@gmail.com> ([@indutny](https://github.com/indutny))
+* **Saúl Ibarra Corretgé** <mailto:saghul@gmail.com> ([@saghul](https://github.com/saghul))
 
 ## Working Groups
 

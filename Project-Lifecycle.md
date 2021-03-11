@@ -81,7 +81,7 @@ TLP.
 ### Security
 
 All projects in the foundation share the same base security policy. The
-foundation's security team triages issues sent to security@nodejs.org.
+foundation's security team triages issues sent to <mailto:security@nodejs.org>.
 Top-Level Projects, whether in the incubator or not, are expected to
 maintain a private security repository where the security team can bring
 project-specific issues.
